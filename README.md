@@ -1,1 +1,1 @@
-# Sales-Prediction-Model
+The Sales Prediction Model uses machine learning to forecast future sales based on historical data. It helps businesses make data-driven decisions by analyzing trends, seasonality, and external factors. Ideal for exploring regression models, time series analysis, and feature engineering.
